@@ -44,3 +44,8 @@ Awesome resources for [OmniFocus](https://www.omnigroup.com/omnifocus) a GTD app
 
 * [Omniboard](http://1klb.com/projects/omniboard/) – Omniboard is a pure ruby library to generate kanban boards from OmniFocus databases.
 * [vibe: Stats about your completed OmniFocus tasks](https://github.com/tschoffelen/vibe)
+
+
+## License
+
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
