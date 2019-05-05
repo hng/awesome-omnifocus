@@ -18,7 +18,7 @@ Awesome resources for [OmniFocus](https://www.omnigroup.com/omnifocus) a GTD app
 
 * [Getting more Focused with OmniFocus](http://jesse.hollington.ca/2016/05/getting-focused-with-omnifocus.html)
 * [The “Considered” Task | Using OmniFocus](http://www.usingomnifocus.com/2014/01/the-considered-task/)
-* [Tags for OmniFocus 3](Tags for OmniFocus 3)
+* [Tags for OmniFocus 3](https://learnomnifocus.com/tags/)
 * [Startup and Shutdown Your Workday in OmniFocus](https://productivityguild.com/2018/startup-and-shutdown-your-workday-in-omnifocus/)
  
 ## Automation on macOS
