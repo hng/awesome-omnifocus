@@ -23,16 +23,29 @@ Awesome resources for [OmniFocus](https://www.omnigroup.com/omnifocus) a GTD app
  
 ## Automation on macOS
 
+### Alfred workflows
+
+* [Search OmniFocus Alfred Workflow](https://github.com/rhydlewis/search-omnifocus)
+
+### Keyboard Maestro
+
 * [Keyboard Maestro: Quickly Access and Hide Features using Keyboard Maestro](https://www.usingomnifocus.com/2017/10/quickly-access/)
 * [Keyboard Maestro: Resources on Learn OmniFocus](https://learnomnifocus.com/apps/keyboard-maestro/)
+
+### Scripts
+
 * [Omnifocus Automation Scripts by Samuel Kordik](https://github.com/samuelkordik/OmnifocusScripts) – Automation scripts e.g. for integrating OmniFocus and Toggl
 * [jira-omnifocus](https://github.com/devondragon/jira-omnifocus) – Ruby script to create and manage OmniFocus tasks based on your JIRA tickets.
 
 
 ## Automation on iOS
 
-* [Drafts action: Task in OmniFocus](http://actions.getdrafts.com/a/1CP)
-* [Drafts action: Tasks in OmniFocus](http://actions.getdrafts.com/a/1QO) – Send each line of the draft to OmniFocus as a new task. All lines will be saved to the inbox.
+### Drafts
+* [Task in OmniFocus](http://actions.getdrafts.com/a/1CP)
+* [Tasks in OmniFocus](http://actions.getdrafts.com/a/1QO) – Send each line of the draft to OmniFocus as a new task. All lines will be saved to the inbox.
+
+### Shortcuts
+
 * [OmniFocus Shortcuts on Routinehub](https://routinehub.co/app/1346190318)
 
 
