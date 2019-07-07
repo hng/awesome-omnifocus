@@ -35,6 +35,7 @@ Awesome resources for [OmniFocus](https://www.omnigroup.com/omnifocus) a GTD app
 ### Scripts
 
 * [Omnifocus Automation Scripts by Samuel Kordik](https://github.com/samuelkordik/OmnifocusScripts) – Automation scripts e.g. for integrating OmniFocus and Toggl
+* [Populate Template Placeholders](http://curtclifton.net/poptemp) – This script takes an OmniFocus project, replaces placeholder text with user entered strings, and adjusts all dates by some fixed interval to match a new start or due date that you enter.
 * [jira-omnifocus](https://github.com/devondragon/jira-omnifocus) – Ruby script to create and manage OmniFocus tasks based on your JIRA tickets.
 
 
